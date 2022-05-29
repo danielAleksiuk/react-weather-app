@@ -1,0 +1,272 @@
+{
+  "weather": [
+    {
+      "base": "stations",
+      "clouds": {
+        "all": 75
+      },
+      "cod": 200,
+      "coord": {
+        "lat": 54.69,
+        "lon": 25.28
+      },
+      "dt": 1589452763,
+      "id": 593116,
+      "main": {
+        "feels_like": 277.24,
+        "humidity": 52,
+        "pressure": 1013,
+        "temp": 281.83,
+        "temp_max": 282.59,
+        "temp_min": 280.15
+      },
+      "q": "Vilnius,lt",
+      "name": "Vilnius",
+      "rain": {
+        "1h": 0.25
+      },
+      "sys": {
+        "country": "LT",
+        "id": 1883,
+        "sunrise": 1589422439,
+        "sunset": 1589480197,
+        "type": 1
+      },
+      "timezone": 10800,
+      "visibility": 10000,
+      "weather": [
+        {
+          "description": "light rain",
+          "icon": "10d",
+          "id": 500,
+          "main": "Rain"
+        }
+      ],
+      "wind": {
+        "deg": 320,
+        "speed": 3.6
+      }
+    },
+    {
+      "base": "stations",
+      "clouds": {
+        "all": 43
+      },
+      "cod": 200,
+      "coord": {
+        "lat": 55.72,
+        "lon": 21.12
+      },
+      "dt": 1589452877,
+      "id": 598098,
+      "main": {
+        "feels_like": 277.78,
+        "humidity": 66,
+        "pressure": 1014,
+        "temp": 282.15,
+        "temp_max": 282.15,
+        "temp_min": 282.15
+      },
+      "q": "Klaipeda,lt",
+      "name": "Klaipėda",
+      "sys": {
+        "country": "LT",
+        "id": 1881,
+        "sunrise": 1589423125,
+        "sunset": 1589481508,
+        "type": 1
+      },
+      "timezone": 10800,
+      "visibility": 10000,
+      "weather": [
+        {
+          "description": "scattered clouds",
+          "icon": "03d",
+          "id": 802,
+          "main": "Clouds"
+        }
+      ],
+      "wind": {
+        "deg": 240,
+        "speed": 4.1
+      }
+    },
+    {
+      "base": "stations",
+      "clouds": {
+        "all": 1
+      },
+      "cod": 200,
+      "coord": {
+        "lat": 28.75,
+        "lon": -82.5
+      },
+      "dt": 1589452916,
+      "id": 4155751,
+      "main": {
+        "feels_like": 288.21,
+        "humidity": 93,
+        "pressure": 1022,
+        "temp": 289.48,
+        "temp_max": 289.82,
+        "temp_min": 289.15
+      },
+      "q": "Florida,us",
+      "name": "Florida",
+      "sys": {
+        "country": "US",
+        "id": 3612,
+        "sunrise": 1589452758,
+        "sunset": 1589501613,
+        "type": 1
+      },
+      "timezone": -14400,
+      "visibility": 16093,
+      "weather": [
+        {
+          "description": "clear sky",
+          "icon": "01d",
+          "id": 800,
+          "main": "Clear"
+        }
+      ],
+      "wind": {
+        "deg": 85,
+        "speed": 4.22
+      }
+    },
+    {
+      "base": "stations",
+      "clouds": {
+        "all": 90
+      },
+      "cod": 200,
+      "coord": {
+        "lat": 38.3,
+        "lon": -76.51
+      },
+      "dt": 1589452956,
+      "id": 4350049,
+      "main": {
+        "feels_like": 281.55,
+        "humidity": 87,
+        "pressure": 1026,
+        "temp": 283.79,
+        "temp_max": 285.37,
+        "temp_min": 282.04
+      },
+      "q": "California,us",
+      "name": "California",
+      "sys": {
+        "country": "US",
+        "id": 2836,
+        "sunrise": 1589450128,
+        "sunset": 1589501368,
+        "type": 1
+      },
+      "timezone": -14400,
+      "visibility": 16093,
+      "weather": [
+        {
+          "description": "overcast clouds",
+          "icon": "04d",
+          "id": 804,
+          "main": "Clouds"
+        }
+      ],
+      "wind": {
+        "deg": 195,
+        "speed": 2.73
+      }
+    },
+    {
+      "base": "stations",
+      "clouds": {
+        "all": 20
+      },
+      "cod": 200,
+      "coord": {
+        "lat": 51.51,
+        "lon": -0.13
+      },
+      "dt": 1589452583,
+      "id": 2643743,
+      "main": {
+        "feels_like": 278.66,
+        "humidity": 45,
+        "pressure": 1024,
+        "temp": 284.27,
+        "temp_max": 285.37,
+        "temp_min": 283.15
+      },
+      "q": "London,uk",
+      "name": "London",
+      "sys": {
+        "country": "GB",
+        "id": 1414,
+        "sunrise": 1589429379,
+        "sunset": 1589485454,
+        "type": 1
+      },
+      "timezone": 3600,
+      "visibility": 10000,
+      "weather": [
+        {
+          "description": "few clouds",
+          "icon": "02d",
+          "id": 801,
+          "main": "Clouds"
+        }
+      ],
+      "wind": {
+        "deg": 60,
+        "speed": 5.1
+      }
+    },
+    {
+      "base": "stations",
+      "clouds": {
+        "all": 40
+      },
+      "cod": 200,
+      "coord": {
+        "lat": 57,
+        "lon": 24.08
+      },
+      "dt": 1589452581,
+      "id": 456173,
+      "main": {
+        "feels_like": 276.28,
+        "humidity": 45,
+        "pressure": 1013,
+        "temp": 282.15,
+        "temp_max": 282.15,
+        "temp_min": 282.15
+      },
+      "q": "Riga,lv",
+      "name": "Rīga",
+      "sys": {
+        "country": "LV",
+        "id": 1876,
+        "sunrise": 1589421998,
+        "sunset": 1589481214,
+        "type": 1
+      },
+      "timezone": 10800,
+      "visibility": 10000,
+      "weather": [
+        {
+          "description": "scattered clouds",
+          "icon": "03d",
+          "id": 802,
+          "main": "Clouds"
+        }
+      ],
+      "wind": {
+        "deg": 340,
+        "gust": 10.3,
+        "speed": 5.1
+      }
+    }
+  ]
+}

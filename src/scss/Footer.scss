@@ -1,0 +1,14 @@
+.footer {
+    margin: 2em 0 2em 0;
+    flex-shrink: 0;
+
+    &__title {
+        font-weight: 600;
+        border-top: 5px solid #242424;
+        padding-top: 0.5em;
+    }
+
+    a {
+        text-decoration: none;
+    }
+}

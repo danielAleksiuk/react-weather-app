@@ -1,0 +1,18 @@
+.weather-list {
+    display: flex;
+    overflow: scroll;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    flex-grow: 1;
+    
+    &__loading-data {
+        margin: 5em;
+        text-align: center;
+    }
+
+    &__error-data {
+        color: red;
+        margin: 5em;
+        text-align: center;
+    }
+}
