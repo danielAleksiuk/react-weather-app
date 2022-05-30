@@ -1,18 +1,3 @@
-### What did/used in this solution
-- used typescript
-- used react
-- used react hooks
-- used Context for state management 
-- used scss, with BEM meth.
-- implemented basic responsive design
-
-### Ideas for future development:
-- instead of using create-react-app, use webpack 
-- implement more tests
-- upgrade package file to all newest version, for example use newer version of react (upgrade from 16 to 18)
-- implement more 'smart' responsive design
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
